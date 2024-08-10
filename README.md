@@ -1,5 +1,5 @@
 ![logo](https://github.com/TechHub-sv/TechHub-sv/blob/main/GitHub%20Page.jpg.png)
-<h1 align="center">Hi 👋, I'm VIRAJ SRUSHTI</h1>
+<h1 align="center">Hi 👋, I'm SRUSHTI VIRAJ</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <head>
   <meta name="google-site-verification" content="I_lNsLXSUmI8Tjy3TGcxr5uB0toScqKXAqWhzE7X1m0" />
