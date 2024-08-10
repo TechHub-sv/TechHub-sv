@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/TechHub-sv/TechHub-sv/blob/main/GitHub%20Page.jpg.png)
 <h1 align="center">Hi 👋, I'm VIRAJ SRUSHTI</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <head>
